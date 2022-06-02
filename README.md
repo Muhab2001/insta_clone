@@ -14,5 +14,5 @@ A full-stack instagram clone created with flutter and firebase
 
 this project was not possible without the amazing flutter courses:
 
-37-hour flutter and firebase introduction https://youtu.be/VPvVD8t02U8
-Instagram clone using flutter course: https://youtu.be/mEPm9w5QlJM
+- 37-hour flutter and firebase introduction https://youtu.be/VPvVD8t02U8
+- Instagram clone using flutter course: https://youtu.be/mEPm9w5QlJM
