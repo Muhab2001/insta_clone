@@ -1,16 +1,18 @@
 # insta_clone
 
-A new Flutter project.
+A full-stack instagram clone created with flutter and firebase
 
-## Getting Started
+## implemented services
 
-This project is a starting point for a Flutter application.
+- following another user
+- like a post (with tween animation)
+- explorer page with search funtionality
+- profile page with real-time stat updates
+- commenting on posts
+- responsive layout for desktop web devices
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+this project was not possible without the amazing flutter courses:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+37-hour flutter and firebase introduction https://youtu.be/VPvVD8t02U8
+Instagram clone using flutter course: https://youtu.be/mEPm9w5QlJM
